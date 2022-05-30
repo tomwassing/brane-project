@@ -1,5 +1,4 @@
-<!-- Add a image to the readme -->
-<img src="logo.svg" alt="Brane-Matplotlib logo" width="512"/>
+<img src="brane-logo.svg" alt="Brane logo" width="512"/>
 <h1>Welcome to Brane Matplotlib 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
@@ -8,7 +7,7 @@
   </a>
 </p>
 
-> This repository is the main repository of the BraneScripts created by the three J's.
+This repository is the main repository of the BraneScripts created by the three J's.
 
 ## Author
 
