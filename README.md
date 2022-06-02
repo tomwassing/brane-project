@@ -8,6 +8,18 @@
 </p>
 
 This repository is the main repository of the BraneScripts created by the three J's.
+We have created two Brane packages: 
+(1) A [Dataprocessing package](https://github.com/tomwassing/brane-scikit-learn) using the scikit-learn library,
+(2) A [Visualisation package](https://github.com/tomwassing/brane-matplotlib) that can visualise the results of the dataprocessing package.
+The two packages can be imported using the following commands:
+
+```sh
+# Dataprocessing package
+brane import tomwassing/brane-scikit-learn
+
+# Visualisation package
+brane import tomwassing/brane-matplotlib
+```
 
 ## Author
 
