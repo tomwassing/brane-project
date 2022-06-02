@@ -1,6 +1,8 @@
 <img src="img/brane-logo.svg" alt="Brane logo" width="512"/>
 <h1>Welcome to the Brane Matplotlib package 👋</h1>
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6607127.svg)](https://doi.org/10.5281/zenodo.6607127)
+
 This repository is the main repository of the BraneScripts created by the three J's.
 We have created two Brane packages: 
 (1) A [Dataprocessing package](https://github.com/tomwassing/brane-scikit-learn) using the scikit-learn library,
